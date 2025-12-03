@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=5BCDEC&center=true&vCenter=true&width=700&lines=Hi+I'm+Sri+Hasa+Duvvuri;Full+Stack+Developer;AI+%26+ML+Engineer;CSE+Graduate+from+JNTUK;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=5BCDEC&center=true&vCenter=true&width=700&lines=Hi+I'm+Sri+Hasa+Duvvuri;Full+Stack+Developer;AI+%26+ML+Enthusiast;CSE+Graduate;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 ---
@@ -91,18 +91,22 @@
 
 ---
 
-## 📈 GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasa24&show_icons=true&theme=react&hide_title=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasa24&theme=react" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasa24&layout=compact&theme=react" width="48%" />
-</p>
-
 ---
+## 📈 GitHub Stats
+
+<p align="center">
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hasa24&show_icons=true&count_private=true&theme=tokyonight" width="48%"/>
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasa24&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasa24&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+
 
 ## 🐍 Contribution Snake  
 <p align="center">
