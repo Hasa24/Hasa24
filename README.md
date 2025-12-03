@@ -91,22 +91,6 @@
 
 ---
 
----
-## 📈 GitHub Stats
-
-<p align="center">
-  <!-- GitHub Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hasa24&show_icons=true&count_private=true&theme=tokyonight" width="48%"/>
-
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasa24&theme=tokyonight" width="48%"/>
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasa24&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-
 
 ## 🐍 Contribution Snake  
 <p align="center">
